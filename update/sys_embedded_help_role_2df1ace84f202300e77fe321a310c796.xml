@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_122600_vijayauto.vijaytest_user" name="x_122600_vijayauto.vijaytest_user">e9f1ace84f202300e77fe321a310c794</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 06:52:54</sys_created_on>
+        <sys_id>2df1ace84f202300e77fe321a310c796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e9f1ace84f202300e77fe321a310c794</sys_name>
+        <sys_package display_value="Vijayautomation" source="x_122600_vijayauto">c151e02c4f202300e77fe321a310c721</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vijayautomation">c151e02c4f202300e77fe321a310c721</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2df1ace84f202300e77fe321a310c796</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 06:52:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

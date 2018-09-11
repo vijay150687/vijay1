@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="vijaytest" max_length="40" name="x_122600_vijayauto_vijaytest" type="collection">
+        <element label="description" max_length="40" name="description" type="string"/>
+        <element label="input variable" max_length="40" name="input_variable" type="string"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
